@@ -1,0 +1,17 @@
+Just Text/
+
+More Text
+
+
+This is before a comment /*  This is in a comment */
+
+"This is a quoted comment /* asndklasdl */ "
+/ * space between still prints
+
+/* commented out "string literal" */
+
+/* Unending comment
+
+
+
+End

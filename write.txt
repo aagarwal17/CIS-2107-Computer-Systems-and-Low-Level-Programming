@@ -1,0 +1,14 @@
+This is just a line of text with a slash mark at the end/
+
+Here is more text, however, there is no slash.
+
+
+This is before a comment, so it will output 
+
+"This is a quoted comment /* asndklasdl */ " so it will print to output
+/ * If there is a space inbetween the slash and the asterik, we will still print
+
+
+
+ */
+

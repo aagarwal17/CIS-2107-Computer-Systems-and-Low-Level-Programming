@@ -1,0 +1,19 @@
+This is just a line of text with a slash mark at the end/
+
+Here is more text, however, there is no slash.
+
+
+This is before a comment, so it will output /*  This is in a comment, so it will not output */
+
+"This is a quoted comment /* asndklasdl */ " so it will print to output
+/ * If there is a space inbetween the slash and the asterik, we will still print
+
+/* Here, we have a commented out "string literal" */
+
+/* /* Another important test is the nested comment */ */
+
+/* Unending comment
+
+
+
+End (this will not print because we have an unending comment)
